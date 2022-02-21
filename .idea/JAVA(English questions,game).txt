@@ -1,0 +1,69 @@
+
+
+
+
+
+
+ArrayList<QuestionGame> QuestionGames=new ArrayList<>();
+
+QuestionGame.add(new QuestionGame(question:"Please don't forget to ring me when you  home",
+          get
+ are going to get
+  will get
+  are getting
+
+The police are ________ an investigation into the robbery.
+
+  working out
+  carrying out
+  searching out
+  making out
+It's a great place to live apart from the increasing volume of ________ that passes under my window every day.
+
+  traffic
+  vehicles
+  circulation
+  transport
+When Sam was a small child, he ________ spend hours every day playing with stones in the garden.
+
+  would
+  used
+  was
+  should
+The teacher asked if ________ to bring our textbooks to class.
+
+  all we had remembered
+  had we all remembered
+  we had all remembered
+  had all we remembered
+We may have a picnic tomorrow but it will depend ________ the weather.
+
+  in
+  of
+  on
+  off
+Carlos usually gets good marks at school ________ he doesn't seem to spend much time studying.
+
+  because
+  although
+although
+  even
+I've only got a ________ money in the bank.
+
+  less
+  few
+  little
+  bit
+
+You must come quickly now or we won't ________ the bus.
+
+  take
+  meet
+  catch
+  run
+Have you been back to the house ________ you grew up?
+
+  who
+  when
+  which
+  where
